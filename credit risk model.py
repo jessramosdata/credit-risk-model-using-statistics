@@ -1,4 +1,3 @@
-# Python Notebook - Settle Take Home Challenge
 
 import pandas as pd
 import numpy as np
