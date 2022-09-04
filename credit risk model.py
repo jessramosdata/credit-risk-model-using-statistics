@@ -9,9 +9,6 @@ import matplotlib.pyplot as plt
 #from sklearn.linear_model import LogisticRegression
 #from sklearn import metrics
 
-#P value is 0.0, so this suggests a relationship btw X and Y
-#reject the null that the variables have no relationship
-
 #Import the data
 data = datasets[0]
 data
